@@ -80,7 +80,6 @@ rcall delay_20ms
 rcall delay_20ms 
 rcall delay_20ms 
  
- 
 ldi r16,0x80
 rcall cmndwrt 
 ldi r16,' ' 
